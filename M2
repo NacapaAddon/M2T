@@ -1,0 +1,30 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]BRASIL[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/01_20230508/01.png</thumbnail>
+<externallink>#</externallink>
+<fanart>https://archive.org/download/fanart01/fanart01.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR red]●[/COLOR] [COLOR gold]POTUGAL[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/02_20230508/02.png</thumbnail>
+<externallink>#</externallink>
+<fanart>https://archive.org/download/fanart02/fanart02.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR red]●[/COLOR] [COLOR gold]ESPANHA[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/03_20230508/03.png</thumbnail>
+<externallink>#</externallink>
+<fanart>https://archive.org/download/fanart03/fanart03.jpg</fanart>
+<info></info>
+</channel>
+
+
+
+</channels>
