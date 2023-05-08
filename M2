@@ -4,7 +4,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]BRASIL[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/01_20230508/01.png</thumbnail>
-<externallink>#</externallink>
+<externallink>https://raw.githubusercontent.com/NacapaAddon/CBR/main/cbr</externallink>
 <fanart>https://archive.org/download/fanart01/fanart01.jpg</fanart>
 <info></info>
 </channel>
