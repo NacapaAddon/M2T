@@ -6,15 +6,17 @@
 <thumbnail>https://archive.org/download/01_20230508/01.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/NacapaAddon/CBR/main/cbr</externallink>
 <fanart>https://archive.org/download/fanart01/fanart01.jpg</fanart>
-<info></info>
+<info>[COLOR yellow]Se alguns canais do BRASIL live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]
+</info>
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]POTUGAL[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]PORTUGAL[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/02_20230508/02.png</thumbnail>
 <externallink>#</externallink>
 <fanart>https://archive.org/download/fanart02/fanart02.jpg</fanart>
-<info></info>
+<info>[COLOR yellow]Se alguns canais da PORTUGAL live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]
+</info>
 </channel>
 
 <channel>
@@ -22,7 +24,8 @@
 <thumbnail>https://archive.org/download/03_20230508/03.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/NacapaAddon/TvES/main/tes</externallink>
 <fanart>https://archive.org/download/fanart03/fanart03.jpg</fanart>
-<info></info>
+<info>[COLOR yellow]Se alguns canais da ESPANHA live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]
+</info>
 </channel>
 
 
