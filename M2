@@ -15,7 +15,7 @@
 <thumbnail>https://archive.org/download/02_20230508/02.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/NacapaAddon/CPT/main/cpt</externallink>
 <fanart>https://archive.org/download/fanart02/fanart02.jpg</fanart>
-<info>[COLOR yellow]Se alguns canais da PORTUGAL live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]
+<info>[COLOR yellow]Se alguns canais de PORTUGAL live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]
 </info>
 </channel>
 
